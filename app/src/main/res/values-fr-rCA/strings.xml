@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello_world">Bonjour le monde</string>
+    <string name="i_love_android">j\'adore androïde</string>
     <string name="button_text">Je suis un bouton!</string>
+    <string name="flag_description">Photo du drapeau français</string>
+    <string name="switch_text">bouton ON / OFF</string>
+    <string name="press">APPUYEZ-MOI</string>
+    <string name="checkBox">Regarde ça!</string>
 </resources>

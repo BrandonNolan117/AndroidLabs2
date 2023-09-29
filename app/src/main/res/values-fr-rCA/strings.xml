@@ -10,4 +10,5 @@
     <string name="snackbarMessage">La case à cocher est maintenant </string>
     <string name="cbOn">Activer</string>
     <string name="cbOff">désactivé</string>
+
 </resources>

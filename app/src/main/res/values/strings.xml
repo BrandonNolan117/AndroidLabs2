@@ -6,4 +6,9 @@
     <string name="switch_text">Switch on/off</string>
     <string name="press">PRESS ME</string>
     <string name="checkBox">Check this out!</string>
+    <string name="toastMessage">Label has been updated</string>
+    <string name="snackbarMessage">The checkbox is now </string>
+    <string name="cbOn">on</string>
+    <string name="cbOff">off</string>
+
 </resources>

@@ -6,4 +6,8 @@
     <string name="switch_text">bouton ON / OFF</string>
     <string name="press">APPUYEZ-MOI</string>
     <string name="checkBox">Regarde ça!</string>
+    <string name="toastMessage">L\'étiquette a été mise à jour</string>
+    <string name="snackbarMessage">La case à cocher est maintenant </string>
+    <string name="cbOn">Activer</string>
+    <string name="cbOff">désactivé</string>
 </resources>
